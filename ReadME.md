@@ -15,13 +15,13 @@ Designing the layout, schematic, and PCB of an ECG circuit using **EasyEDA** and
 
 ## Screenshots
 - Circuit
-![Circuit](https://example.com/screenshot1.png](https://github.com/Ashraf-mE/Electronic-Packaging-Project/blob/main/Assests/circuit.png)
+![Circuit](https://github.com/Ashraf-mE/Electronic-Packaging-Project/blob/main/Assests/circuit.png)
 
 - Schematic
-![Schematic](https://example.com/screenshot2.png](https://github.com/Ashraf-mE/Electronic-Packaging-Project/blob/main/Assests/common_layers.png)
+![Schematic](https://github.com/Ashraf-mE/Electronic-Packaging-Project/blob/main/Assests/common_layers.png)
 
 - Common Layers
-![Common Layers](https://example.com/screenshot2.png](https://github.com/Ashraf-mE/Electronic-Packaging-Project/blob/main/Assests/schematic.png)
+![Common Layers](https://github.com/Ashraf-mE/Electronic-Packaging-Project/blob/main/Assests/schematic.png)
 
 
 ## Design Tools
