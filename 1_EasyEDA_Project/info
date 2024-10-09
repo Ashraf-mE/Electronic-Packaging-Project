@@ -1,0 +1,468 @@
+{
+  "uuid": "dc008d78c2ec80087041985bb9c05c18",
+  "path": "Offline/EP_Project",
+  "name": "EP_Project",
+  "content": "",
+  "created_at": "2023-11-04 01:44:36",
+  "updated_at": "2023-11-04 01:45:29",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "5ca880814a7ec8b894c9648dba316275",
+      "title": "Sheet_4",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "fd11c9e744c44aeab6011e8bd4c3ea86": 36,
+        "e7962e2e3a9548e6aac708adae2aee0f": 1,
+        "e0b0d01b6e0d44dbab9db0ad79a427bc": 1,
+        "b0248eb51e084227889f2cb84eab79c4": 23,
+        "9053c9e27b0c48ad8d415feb54de2983": 1,
+        "011c01e003aa4c8ba64e0593621c97f8": 7,
+        "fdbe38b74c8b4af3b736dbd0659d68d6": 1,
+        "df7968c2afd842ddac1a5c0875a04b7c": 1,
+        "f5bf7842bf3a4af9a31f5577df09e428": 1,
+        "9d31980d5ecc45768a6107f8ac3648e7": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "0.1u",
+          25,
+          "C0603",
+          "C1,C2,C3,C4,C5,C7,C8,C10,C11,C12,C13,C14,C15,C16,C19,C20,C21,C22,C29,C30,C31,C32,C33,C34,C35",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "C_0603_EU",
+            "Manufacturer Part": "",
+            "puuid": "f8151fdc728a41ebbc304e11d39e5437",
+            "uuid": "fd11c9e744c44aeab6011e8bd4c3ea86"
+          }
+        ],
+        [
+          "1u",
+          3,
+          "C0603",
+          "C6,C9,C37",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "C_0603_EU",
+            "Manufacturer Part": "",
+            "puuid": "f8151fdc728a41ebbc304e11d39e5437",
+            "uuid": "fd11c9e744c44aeab6011e8bd4c3ea86"
+          }
+        ],
+        [
+          "0.47u",
+          5,
+          "C0603",
+          "C17,C18,C23,C24,C25",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "C_0603_EU",
+            "Manufacturer Part": "",
+            "puuid": "f8151fdc728a41ebbc304e11d39e5437",
+            "uuid": "fd11c9e744c44aeab6011e8bd4c3ea86"
+          }
+        ],
+        [
+          "68n",
+          1,
+          "C0603",
+          "C26",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "C_0603_EU",
+            "Manufacturer Part": "",
+            "puuid": "f8151fdc728a41ebbc304e11d39e5437",
+            "uuid": "fd11c9e744c44aeab6011e8bd4c3ea86"
+          }
+        ],
+        [
+          "33n",
+          2,
+          "C0603",
+          "C27,C28",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "C_0603_EU",
+            "Manufacturer Part": "",
+            "puuid": "f8151fdc728a41ebbc304e11d39e5437",
+            "uuid": "fd11c9e744c44aeab6011e8bd4c3ea86"
+          }
+        ],
+        [
+          "TBLOCK-M4",
+          1,
+          "TBLOCK-M4",
+          "J1",
+          {
+            "Contributor": "amit_9in87",
+            "spiceSymbolName": "TBLOCK-M4",
+            "Manufacturer Part": "",
+            "puuid": "dbc5e4bd121f473ebc29ad3c077a3863",
+            "uuid": "f5bf7842bf3a4af9a31f5577df09e428"
+          }
+        ],
+        [
+          "24k",
+          6,
+          "R0603",
+          "R1,R2,R6,R7,R9,R10",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_0603_US",
+            "Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "b0248eb51e084227889f2cb84eab79c4"
+          }
+        ],
+        [
+          "5.6M",
+          1,
+          "R0603",
+          "R3",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_0603_US",
+            "Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "b0248eb51e084227889f2cb84eab79c4"
+          }
+        ],
+        [
+          "1k",
+          2,
+          "R0603",
+          "R4,R21",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_0603_US",
+            "Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "b0248eb51e084227889f2cb84eab79c4"
+          }
+        ],
+        [
+          "10k",
+          1,
+          "R0603",
+          "R5",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_0603_US",
+            "Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "b0248eb51e084227889f2cb84eab79c4"
+          }
+        ],
+        [
+          "10M",
+          1,
+          "R0603",
+          "R8",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_0603_US",
+            "Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "b0248eb51e084227889f2cb84eab79c4"
+          }
+        ],
+        [
+          "33k",
+          2,
+          "R0603",
+          "R11,R12",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_0603_US",
+            "Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "b0248eb51e084227889f2cb84eab79c4"
+          }
+        ],
+        [
+          "56k",
+          1,
+          "R0603",
+          "R13",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_0603_US",
+            "Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "b0248eb51e084227889f2cb84eab79c4"
+          }
+        ],
+        [
+          "3.2k",
+          4,
+          "R0603",
+          "R14,R15,R16,R24",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_0603_US",
+            "Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "b0248eb51e084227889f2cb84eab79c4"
+          }
+        ],
+        [
+          "100k",
+          2,
+          "R0603",
+          "R17,R18",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_0603_US",
+            "Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "b0248eb51e084227889f2cb84eab79c4"
+          }
+        ],
+        [
+          "50k",
+          1,
+          "R0603",
+          "R19",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_0603_US",
+            "Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "b0248eb51e084227889f2cb84eab79c4"
+          }
+        ],
+        [
+          "47k",
+          1,
+          "R0603",
+          "R20",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_0603_US",
+            "Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "b0248eb51e084227889f2cb84eab79c4"
+          }
+        ],
+        [
+          "32k",
+          1,
+          "R0603",
+          "R23",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_0603_US",
+            "Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "b0248eb51e084227889f2cb84eab79c4"
+          }
+        ],
+        [
+          "R_3386P_US",
+          1,
+          "RES-ADJ-TH_3386P",
+          "RP1",
+          {
+            "Supplier Part": "",
+            "Supplier": "LCSC",
+            "Manufacturer Part": "",
+            "Contributor": "LCEDA_Lib",
+            "value(Ω)": "10K",
+            "spiceSymbolName": "R_3386P_US",
+            "puuid": "ce6e0cc9b0684cd986edbf86d7075dfd",
+            "uuid": "e0b0d01b6e0d44dbab9db0ad79a427bc"
+          }
+        ],
+        [
+          "DIP switchEI-04",
+          1,
+          "SW-TH_DIPSWITCHEI-04",
+          "SW1",
+          {
+            "Supplier": "LCSC",
+            "Manufacturer": "圜达",
+            "Manufacturer Part": "拨码开关EI-04",
+            "Supplier Part": "C99987",
+            "JLCPCB Part Class": "Extended Part",
+            "link": "https://lcsc.com/eda_search?q=C99987&%26type=1&ref=editor",
+            "spiceSymbolName": "DIP switchEI-04",
+            "puuid": "3c2c7b37c8f74ceeaf8a4de7b7c351b7",
+            "uuid": "df7968c2afd842ddac1a5c0875a04b7c"
+          }
+        ],
+        [
+          "AD620",
+          1,
+          "SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL",
+          "U1",
+          {
+            "Contributor": "LCSC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C650347",
+            "Manufacturer": "Analog Devices",
+            "Manufacturer Part": "AD620BRZ-RL",
+            "JLCPCB Part Class": "Extended Part",
+            "link": "https://lcsc.com/eda_search?q=C650347&%26type=1&ref=editor",
+            "spiceSymbolName": "AD620BRZ-RL",
+            "puuid": "806a55eb4d3c40ab838f70f86785d85e",
+            "uuid": "e7962e2e3a9548e6aac708adae2aee0f"
+          }
+        ],
+        [
+          "ISO124",
+          1,
+          "SOIC-28_8P-L18.1-W7.6-P1.27-LS10.7-BL-ISO124U-1K",
+          "U2",
+          {
+            "Contributor": "LCSC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C40796",
+            "Manufacturer": "TI(德州仪器)",
+            "Manufacturer Part": "ISO124U/1K",
+            "JLCPCB Part Class": "Extended Part",
+            "link": "https://lcsc.com/eda_search?q=C40796&%26type=1&ref=editor",
+            "spiceSymbolName": "ISO124U",
+            "puuid": "d223cde48d204233961eceedfa817c95",
+            "uuid": "9053c9e27b0c48ad8d415feb54de2983"
+          }
+        ],
+        [
+          "OP97FJ",
+          1,
+          "TO-99-8_TI_LMC",
+          "U4",
+          {
+            "Contributor": "lcsc",
+            "Supplier": "LCSC",
+            "Supplier Part": "C4368430",
+            "Manufacturer": "ADI(亚德诺)/LINEAR(凌特)",
+            "Manufacturer Part": "OP97FJ",
+            "link": "https://lcsc.com/eda_search?q=C4368430&%26type=1&ref=editor",
+            "spiceSymbolName": "OP97FJ",
+            "puuid": "25394c64623e46ad9fac7e9afdbd3928",
+            "uuid": "fdbe38b74c8b4af3b736dbd0659d68d6"
+          }
+        ],
+        [
+          "HDR2.54-WS-5P",
+          1,
+          "HDR-SMD_5P-P2.54_HDR2.54-WS",
+          "U11",
+          {
+            "Contributor": "LCSC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900005621",
+            "Manufacturer": "null",
+            "Manufacturer Part": "HDR2.54-WS-5P",
+            "JLCPCB Part Class": "Extended Part",
+            "link": "https://lcsc.com/eda_search?q=C9900005621&%26type=1&ref=editor",
+            "spiceSymbolName": "HDR2.54-WS-5P",
+            "puuid": "432711c8c53f48f1b1322e63b5bd8cfd",
+            "uuid": "9d31980d5ecc45768a6107f8ac3648e7"
+          }
+        ],
+        [
+          "LF412CN",
+          7,
+          "PDIP-8_L9.6-W6.4-P2.54-LS7.6-BL",
+          "U3,U5,U6,U7,U8,U9,U10",
+          {
+            "subpart_no": "1",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1346063",
+            "Manufacturer": "TI(德州仪器)",
+            "Manufacturer Part": "LF412CN/NOPB",
+            "JLCPCB Part Class": "Extended Part",
+            "link": "https://lcsc.com/eda_search?q=C1346063&%26type=1&ref=editor",
+            "spiceSymbolName": "LF412CN/NOPB",
+            "puuid": "d0e041d97bdd449d8a2e6e1b6660be6f",
+            "uuid": "011c01e003aa4c8ba64e0593621c97f8"
+          }
+        ]
+      ],
+      "updateTime": 1699042476,
+      "createTime": 1699042476,
+      "histories": [],
+      "created_at": "2023-11-04 01:44:36",
+      "updated_at": "2023-11-04 01:44:36"
+    },
+    {
+      "uuid": "dc2015c3526e715de45c4640244e5075",
+      "puuid": "dc008d78c2ec80087041985bb9c05c18",
+      "title": "PCB_Design",
+      "filename": "PCB_Design.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f8151fdc728a41ebbc304e11d39e5437": 36,
+        "398691f1f785460098bbe5ee6590333c": 23,
+        "ce6e0cc9b0684cd986edbf86d7075dfd": 1,
+        "3c2c7b37c8f74ceeaf8a4de7b7c351b7": 1,
+        "806a55eb4d3c40ab838f70f86785d85e": 1,
+        "d223cde48d204233961eceedfa817c95": 1,
+        "25394c64623e46ad9fac7e9afdbd3928": 1,
+        "d0e041d97bdd449d8a2e6e1b6660be6f": 7,
+        "432711c8c53f48f1b1322e63b5bd8cfd": 1,
+        "dbc5e4bd121f473ebc29ad3c077a3863": 1
+      },
+      "BOM": [],
+      "updateTime": 1699042529,
+      "createTime": 1699042529,
+      "histories": [],
+      "created_at": "2023-11-04 01:45:29",
+      "updated_at": "2023-11-04 01:45:29"
+    }
+  ],
+  "sort": [],
+  "title": "EP_Project",
+  "foldername": "EP_Project",
+  "schfilename": "EP_Project.json",
+  "schfilemtime": 1699042476658
+}
